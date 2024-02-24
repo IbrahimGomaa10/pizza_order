@@ -24,6 +24,8 @@ The purpose of the "Fast React Pizza" application is to provide a fast, convenie
 2. React
 3. Tailwind CSS
 4. Javascript
+5. Redux / Redux toolkit
+6. Advanced React Router Dom 6.4+ with loading data
 
 ## What I learned
 
