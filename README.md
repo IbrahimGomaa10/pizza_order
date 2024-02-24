@@ -1,6 +1,6 @@
 <h1 align="center">🍕 Fast React Pizza Co. 🍕</h1>
 
-### <h3 align="center"> [Live]([pizza-order-xi.vercel.app](https://pizza-order-xi.vercel.app/))</h3>
+### <h3 align="center"> [Live](https://pizza-order-xi.vercel.app/)</h3>
 
 ## About The Project
 
